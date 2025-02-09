@@ -1,1 +1,3 @@
 # Student_Performance_Predictor
+
+Building a deep learning model using computer vision to classifying skin type. Aims to help individuals decide skin type they have and assists aesthetic doctors to determine what treatment is the best for their patients. The dataset used to train this model is sourced from kaggle containing diverse skin type images and deployed on huggingface. In the future, this model could be further developed for use in personalized e-commerce, and clinical decision-making systems, broadening its impact on skincare and aesthetic medicine.
